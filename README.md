@@ -59,7 +59,7 @@ _`[number_of_times_each_philosopher_must_eat]`_ (optional argument): If all phil
 
 ### Visualisation for `./philo 15 800 250 200 5`
 
-![15 philos](https://github.com/kroharu/philosophers/blob/main/philos-demo.gif)
+![15 philos](https://github.com/kroharu/philosophers/blob/main/15philos.png)
 
 ## Useful links
 
