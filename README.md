@@ -43,7 +43,7 @@ Run the following commands in Terminal:
 > ./philo 21 800 200 100 10
 ```
 
-![Philos Demo](preview/philos-demo.gif)
+![Philos Demo](philos-demo.gif)
 
 ### Program arguments
 
@@ -59,7 +59,7 @@ _`[number_of_times_each_philosopher_must_eat]`_ (optional argument): If all phil
 
 ### Visualisation for `./philo 15 800 250 200 5`
 
-![15 philos](preview/15philos.png)
+![15 philos](https://github.com/kroharu/philosophers/blob/main/philos-demo.gif)
 
 ## Useful links
 
